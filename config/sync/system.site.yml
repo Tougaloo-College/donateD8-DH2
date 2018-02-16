@@ -1,0 +1,14 @@
+uuid: bf352d0f-70f4-4d4f-9ecf-0dbc8a2a4641
+name: 'Tougaloo Give Today'
+mail: vvardaman@tougaloo.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
