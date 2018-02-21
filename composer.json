@@ -22,6 +22,7 @@
         "drupal/admin_toolbar": "^1.0",
         "drupal/console": "~1.0",
         "drupal/core": "~8.4",
+        "drupal/drupal8_zymphonies_theme": "^1.0",
         "drupal/google_analytics": "^2.0",
         "drupal/pathauto": "^1.0",
         "drush/drush": "^9.0.0",
@@ -29,6 +30,7 @@
         "webmozart/path-util": "^2.3"
     },
     "require-dev": {
+        "drupal/devel": "^1.0",
         "webflo/drupal-core-require-dev": "~8.4"
     },
     "conflict": {
