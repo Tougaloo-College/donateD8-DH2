@@ -22,6 +22,7 @@
         "drupal/admin_toolbar": "^1.0",
         "drupal/console": "~1.0",
         "drupal/core": "~8.4",
+        "drupal/google_analytics": "^2.0",
         "drupal/pathauto": "^1.0",
         "drush/drush": "^9.0.0",
         "webflo/drupal-finder": "^1.0.0",
